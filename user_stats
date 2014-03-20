@@ -1,0 +1,2 @@
+#!/bin/sh
+~/env/3/bin/python -tt -c "from ln import user_stats; user_stats.main();" "$@"
